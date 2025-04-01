@@ -1,0 +1,36 @@
+[33mcommit 194863b8a4ccfa1d11604d5108bcb37c720dec2d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mweek05[m[33m, [m[1;32mweek03[m[33m)[m
+Merge: 3c95cb5 cac7b35
+Author: dokyungchoi <chud234@naver.com>
+Date:   Thu Mar 20 23:39:58 2025 +0900
+
+    week03_
+
+[33mcommit 3c95cb56c34b609055ab8f69612230895e62ac28[m
+Author: dokyungchoi <chud234@naver.com>
+Date:   Thu Mar 20 20:18:56 2025 +0900
+
+    week03_
+
+[33mcommit 77f37796887def3393f96b9d44092643142bd5fd[m[33m ([m[1;32mweek02[m[33m)[m
+Author: dokyungchoi <chud234@naver.com>
+Date:   Sun Mar 16 03:52:44 2025 +0900
+
+    week02_
+
+[33mcommit cac7b355033de8df345255a2360a66fab329be1d[m[33m ([m[1;31morigin/week03[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DongHyun Jo <37866921+mr8356@users.noreply.github.com>
+Date:   Mon Mar 3 20:25:07 2025 +0900
+
+    Update README.md
+
+[33mcommit 7edd788b328f215fed6691623a9b661d6bf605bb[m
+Author: mr8356 <mr8356@naver.com>
+Date:   Mon Mar 3 20:24:38 2025 +0900
+
+    modify readme
+
+[33mcommit 3cafa728b892ee753905c7da6f5ea90def57d9b0[m
+Author: DongHyun Jo <37866921+mr8356@users.noreply.github.com>
+Date:   Mon Mar 3 20:16:02 2025 +0900
+
+    Initial commit
